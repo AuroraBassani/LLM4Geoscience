@@ -33,7 +33,7 @@ These scripts fine-tune the pre-trained Large Language Model (TinyLlama) for spe
 Both scripts handle data loading, model configuration, setting up training arguments, and initiating the training process.
 
 **`predictions_P.py`** and **`predictions_S.py`**
-These scripts generate predictions from the fine-tuned models:
+These scripts generate predictions for the test set from the fine-tuned models:
 - `predictions_P.py` loads the model fine-tuned on P-wave data and predicts outputs for the test set.
 - `predictions_S.py` does the same for the S-wave model.
 Each script formats the input data, runs the model, and saves the predictions for further evaluation.
