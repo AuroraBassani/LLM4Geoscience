@@ -45,7 +45,7 @@ training_data = prepare_data(dataset_path_train)
 
 # validation dataset
 dataset_path_val = "./DataModel/dataset/val_p.csv"
-val_data = prepare_data(dataset_path_train)
+val_data = prepare_data(dataset_path_val)
 
 
 
