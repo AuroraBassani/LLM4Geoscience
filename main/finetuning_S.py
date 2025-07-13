@@ -49,7 +49,7 @@ training_data = prepare_data(dataset_path_train)
 
 # validation dataset
 dataset_path_val = "./dataset/val_s.csv"
-val_data = prepare_data(dataset_path_train)
+val_data = prepare_data(dataset_path_val)
 
 
 
