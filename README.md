@@ -1,8 +1,12 @@
 # Rapid Estimation of Earthquake Magnitude and Location Using a Large Language Model
 
-Project Page | Paper Link
 
 Authors: [Aurora Bassani](https://scholar.google.com/citations?user=CWKSGO8AAAAJ&hl=it&authuser=3&oi=ao), [Daniele Trappolini](https://daniele-trappolini.github.io/), Giulio Poggiali, [Elisa Tinti](https://scholar.google.com/citations?user=DN02TWEAAAAJ&hl=it&oi=ao), [Fabio Galasso](https://scholar.google.com/citations?user=2gSuGBEAAAAJ&hl=it&oi=ao), [Chris Marone](https://scholar.google.com/citations?user=dQnMIVcAAAAJ&hl=it&oi=ao), [Alberto Michelini](https://scholar.google.com/citations?user=y3vfoJ0AAAAJ&hl=it&oi=ao)
+
+
+This repository contains the code associated with the manuscript submitted to Communications Earth & Environment.  
+As stated in the paper, the code was initially private and is now publicly accessible for peer review and reproducibility.
+
 
 ## Overview
 This repository contains the implementation and supporting materials for the research paper titled "Rapid Estimation of Earthquake Magnitude and Location Using a Large Language Model" by Aurora Bassani et al. The study introduces a novel model leveraging Large Language Models (LLMs) for enhancing earthquake early warning systems by providing rapid estimates of earthquake magnitude and location.
@@ -54,7 +58,7 @@ If you find this research useful, please consider citing:
 @article{llm4geo_2025,
   title={Rapid Estimation of Earthquake Magnitude and Location Using a Large Language Model},
   author={Bassani, Aurora et al.},
-  journal={Non-peer reviewed Research Article submitted to NATURE COMMUNICATIONS},
+  journal={Submitted to Communications Earth \& Environment},
   year={2025}
 }
 ```
